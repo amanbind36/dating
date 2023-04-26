@@ -24,7 +24,7 @@ const TopNav = () => {
       <Nav position="static">
         <Toolbar>
           < Text variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            +91 7878-9876-99
+            +91 7307-7520-82
           </Text>
           <FacebookIcon/>
           <InstagramIcon/>
